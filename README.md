@@ -25,29 +25,29 @@ The main objective of this project
  
  Tools and Platform  
  
-   ->We have used Python (3.8)  syntax for making this application.
+     ->We have used Python (3.8)  syntax for making this application.
 
-   ->The dataset that we used in this project  “Pima Indian Diabetes”  taken from Kaggle. 
+     ->The dataset that we used in this project  “Pima Indian Diabetes”  taken from Kaggle. 
 
-   ->The entire application  executed on  Jupyter Notebook.
+     ->The entire application  executed on  Jupyter Notebook.
    
    
 Module wise Description :
 
 
-   ->Download dataset from kaggle.com
-   ->Load the libraries and read the data.
-   ->Replace missing values.
-   ->Exploratory data analysis.
-   ->Creating new features (to increase accuracy)
-   ->Encoding features.
-   ->Using LightGBM and optimize hyperparameters
-   ->Adding a KNN to LGBM to beat 90% accuracy (voting classifier)
+     ->Download dataset from kaggle.com
+     ->Load the libraries and read the data.
+     ->Replace missing values.
+     ->Exploratory data analysis.
+     ->Creating new features (to increase accuracy)
+     ->Encoding features.
+     ->Using LightGBM and optimize hyperparameters
+     ->Adding a KNN to LGBM to beat 90% accuracy (voting classifier)
 
 
 Future works
 
-  ->Throughout this work Random Forest algorithms area unit studied and evaluated on varied measures. Perform early prediction of diabetes for a patient with     a higher accuracy by using machine learning technique which provides advance support for predicting the accuracy rate of diabetes. To build a prediction     model for diabetes with 99.99% accuracy, we will need thousands of records with zero missing values. Our future work will focus on integration of other       methods into the used model for tuning the parameters of models for better accuracy.
+     ->Throughout this work Random Forest algorithms area unit studied and evaluated on varied measures. Perform early prediction of diabetes for a patient           with a higher accuracy by using machine learning technique which provides advance support for predicting the accuracy rate of diabetes. To build             a prediction model for diabetes with 99.99% accuracy, we will need thousands of records with zero missing values. Our future work will focus on               integration of other methods into the used model for tuning the parameters of models for better accuracy.
 
 
 
